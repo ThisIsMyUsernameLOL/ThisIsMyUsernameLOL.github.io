@@ -1,8 +1,8 @@
-# The Golden Ratio
+# **The Golden Ratio**
 
 ![alt text](https://www.mos.org/leonardo/sites/mos.org.leonardo/files/uploads/vitruvian-man.jpg)
 
-### What is the golden ratio?
+### **What is the golden ratio?**
 
 The golden ratio, also known as the divine proportion, is a special number (equal to about 1.618) that appears many times in geometry, art, an architecture. The golden ratio is found when a line is divided into two parts such that the whole length of the line divided by the long part of the line is also equal to the long part of the line divided by the short part of the line.
 
