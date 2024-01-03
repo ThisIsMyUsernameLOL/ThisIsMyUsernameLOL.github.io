@@ -8,4 +8,6 @@ The golden ratio, also known as the divine proportion, is a special number (equa
 
 Some shapes, such as dodecahedrons and icosahedrons, have inherent golden ratios in their dimensions and spatial positions of their intersecting lines. Some artists and architects believe that the golden ratio makes the most beautiful shapes. As a result the ratio can be found in many famous buildings and artworks, such as those by Leonardo da Vinci.
 
+### Watch the video below by [Be Smart](https://www.youtube.com/@besmart)
+
 [![Watch the video](https://img.youtube.com/vi/1Jj-sJ78O6M/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Jj-sJ78O6M)
